@@ -2,6 +2,23 @@
 
 NeuraFlow is an AI-powered interview preparation platform that analyzes your resume against job descriptions, identifies skill gaps, and provides interactive mock interview practice.
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/Screenshot%202026-01-13%20191830.png)
+
+### Resume Analysis
+![Resume Analysis](screenshots/Screenshot%202026-01-13%20191856.png)
+
+### AI-Powered Insights
+![AI Insights](screenshots/Screenshot%202026-01-13%20191937.png)
+
+### Interactive Chat
+![Interactive Chat](screenshots/Screenshot%202026-01-13%20192014.png)
+
+### Dashboard
+![Dashboard](screenshots/Screenshot%202026-01-13%20192313.png)
+
 ## Features
 
 - **AI Resume Analysis**: Upload your resume (PDF/DOCX) or paste text for deep analysis
