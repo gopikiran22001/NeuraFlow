@@ -1,0 +1,30 @@
+<svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bottom left node -->
+  <circle cx="130" cy="330" r="30" fill="#3B82F6"/>
+  <!-- Top left node -->
+  <circle cx="150" cy="150" r="30" fill="#0EA5E9"/>
+  <!-- Center node -->
+  <circle cx="220" cy="240" r="25" fill="#22D3EE"/>
+  <!-- Top center node -->
+  <circle cx="260" cy="120" r="30" fill="#22D3EE"/>
+  <!-- Top right node -->
+  <circle cx="320" cy="140" r="30" fill="#818CF8"/>
+  <!-- Bottom center node -->
+  <circle cx="240" cy="310" r="25" fill="#60A5FA"/>
+  <!-- Bottom right node -->
+  <circle cx="300" cy="330" r="30" fill="#A78BFA"/>
+  
+  <!-- Connecting lines -->
+  <path d="M 150 150 Q 185 195 220 240" stroke="#0EA5E9" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 220 240 Q 240 180 260 120" stroke="#22D3EE" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 260 120 L 320 140" stroke="#60A5FA" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 130 330 Q 175 285 220 240" stroke="#3B82F6" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 220 240 Q 230 275 240 310" stroke="#22D3EE" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 240 310 L 300 330" stroke="#818CF8" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 130 330 Q 185 320 240 310" stroke="#818CF8" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 240 310 Q 270 320 300 330" stroke="#A78BFA" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 320 140 Q 280 225 240 310" stroke="#A78BFA" stroke-width="12" fill="none" stroke-linecap="round"/>
+  
+  <!-- Bottom wave -->
+  <path d="M 160 360 Q 215 380 270 360" stroke="#22D3EE" stroke-width="16" fill="none" stroke-linecap="round"/>
+</svg>
